@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/0x15d3/cobblebot-frontend/blob/main/Cobblestone.png?raw=true" height="150px">
+</p>
+
 # CobbleBot Frontend
 
 ### a website that allows players to make their own afk bots and control them.
@@ -29,4 +33,10 @@ To run the project locally, you will need to do the following:
 
 1. run `yarn install`
 2. run `yarn dev`
+
+
+## Developers
+<p align="center">
+    <a href="https://github.com/0x15d3"><img src="https://github.com/0x15d3.png" width="24%"></img></a>
+</p>
 
